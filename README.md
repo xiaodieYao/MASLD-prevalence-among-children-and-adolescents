@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/1286428819.svg)](https://doi.org/10.5281/zenodo.21439663)
 # VCTE Analysis Code
 
 This repository contains the analysis code and related files for the VCTE study.
